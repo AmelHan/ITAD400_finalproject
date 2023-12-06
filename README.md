@@ -1,4 +1,4 @@
-# finalproject_practice
+# finalproject_ITAD400
 
 A new Flutter project.
 
